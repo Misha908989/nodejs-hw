@@ -1,0 +1,7 @@
+[
+  { "title": "Buy groceries", "content": "Milk, bread, eggs, butter", "tag": "Shopping" },
+  { "title": "Team meeting", "content": "Discuss Q3 goals with the team", "tag": "Meeting" },
+  { "title": "Exercise plan", "content": "Run 5km every morning", "tag": "Health" },
+  { "title": "Project ideas", "content": "Build a notes app with React", "tag": "Ideas" },
+  { "title": "Travel to Kyiv", "content": "Book train tickets for July", "tag": "Travel" }
+]
